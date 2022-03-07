@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">pertemuan4_71190411</string>
+    <string name="judul">Selamat Datang Member FTI</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register Now</string>
+    <string name="forgot">Forgot Password</string>
+</resources>
